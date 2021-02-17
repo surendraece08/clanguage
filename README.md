@@ -1,5 +1,9 @@
 # clanguage
 
+readsentence.c
+--------------
+Program to read a sentence as input from the user.
+
 swap2bits.c
 -----------
 Program to swap every two bits of a given number.
