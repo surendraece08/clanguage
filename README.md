@@ -1,7 +1,7 @@
 # clanguage
 
-binarytodecimal.c
------------------
+swap2bits.c
+-----------
 Program to swap every two bits of a given number.
 
 binarytodecimal.c
