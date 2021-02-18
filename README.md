@@ -1,5 +1,9 @@
 # clanguage
 
+maxof4nums.c
+------------
+Program to find maximum of 4 given integers.
+
 reversebits.c
 -------------
 Program to reverse bits of a byte.
