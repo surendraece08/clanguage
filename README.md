@@ -1,5 +1,9 @@
 # clanguage
 
+reversebits.c
+-------------
+Program to reverse bits of a byte.
+
 readsentence.c
 --------------
 Program to read a sentence as input from the user.
