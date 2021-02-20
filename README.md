@@ -1,5 +1,9 @@
 # clanguage
 
+swapnibbles.c
+-------------
+Program to swap nibbles of given byte of input.
+
 maxof4nums.c
 ------------
 Program to find maximum of 4 given integers.
