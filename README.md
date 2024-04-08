@@ -27,3 +27,7 @@ Program to print binary equivalent of a given decimal number.
 hextodec.c
 ----------
 Program to convert given hexadecimal string to decimal number.
+
+alternate_toggle.c
+------------------
+Program to toggle alternate bits of a given unsigned integer.
