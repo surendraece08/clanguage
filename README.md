@@ -31,3 +31,7 @@ Program to convert given hexadecimal string to decimal number.
 alternate_toggle.c
 ------------------
 Program to toggle alternate bits of a given unsigned integer.
+
+flip_atob.c
+-----------
+Program to flip bits to convert the unsigned integer a to unsigned integer b.
