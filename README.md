@@ -35,3 +35,7 @@ Program to toggle alternate bits of a given unsigned integer.
 flip_atob.c
 -----------
 Program to flip bits to convert the unsigned integer a to unsigned integer b.
+
+count_trail01.c
+---------------
+Program to count trailing bit from LSB in the give unsinged integer.
